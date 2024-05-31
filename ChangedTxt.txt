@@ -1,9 +1,5 @@
 This is the Test of Git.
 Contains:
 	my C code.c2333333333333333
-<<<<<<< HEAD
-	Get from main.
-=======
-	Get from dev
->>>>>>> dev
+	//add merge
 	//This is new contetnt from dev branch
